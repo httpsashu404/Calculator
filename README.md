@@ -1,6 +1,6 @@
 I've created task-2 project of "Calculator" during internship at codSoft.
 
-Frontend : HTML, CSS, Javascript, Bootstrap ReactJs.
+Frontend : HTML, CSS, Javascript, Bootstrap ReactJs. <br/>
 **Link :** https://calcwithashu.netlify.app/  
 
 **Image : 1**  <br/>
